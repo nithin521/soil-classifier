@@ -47,7 +47,7 @@ const Upload = () => {
     formData.append("file", file);
 
     try {
-      const response = await fetch("https://nithin521-soil-classifier.hf.space/predict", {
+      const response = await fetch("https://nithin521-soil-classifier-2.hf.space/predict", {
         method: "POST",
         body: formData,
         cors: "cors",
