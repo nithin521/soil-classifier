@@ -18,7 +18,6 @@ A web-based soil classification system that predicts the type of soil based on i
 - [Dataset Source](#dataset-source)
 - [Model Architecture & Training](#model-architecture--training)
 - [How to Run Locally](#how-to-run-locally)
-- [Project Structure](#project-structure)
 - [Results](#results)
 
 
@@ -89,20 +88,6 @@ We used a Convolutional Neural Network (CNN) with the following configuration:
 pip install -r requirements.txt 
 ```
 
-
-## Project Structure
-
-
-soil-classifier/
-│
-├── model/                  # Saved model (.h5)
-├── dataset/                # Soil image dataset (optional if not hosting full data)
-├── app.py                  # Gradio app script
-├── train_model.py          # CNN model training script
-├── predict.py              # Prediction function
-├── requirements.txt        # Required packages
-├── README.md               # Project documentation
-└── .gitignore
 
 ## Results
 Achieves ~90–92% accuracy on validation soil images.
