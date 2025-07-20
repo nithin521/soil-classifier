@@ -17,7 +17,6 @@ A web-based soil classification system that predicts the type of soil based on i
 - [Technologies Used](#technologies-used)
 - [Dataset Source](#dataset-source)
 - [Model Architecture & Training](#model-architecture--training)
-- [How to Run Locally](#how-to-run-locally)
 - [Results](#results)
 
 
@@ -80,13 +79,6 @@ We used a Convolutional Neural Network (CNN) with the following configuration:
 - **Data Augmentation**: Applied for better generalization (rotation, flip, zoom)
 
 ---
-
-## 🖥️ How to Run Locally
-
-### ⚙️ Requirements:
-```bash
-pip install -r requirements.txt 
-```
 
 
 ## Results
