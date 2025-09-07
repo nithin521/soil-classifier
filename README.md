@@ -6,7 +6,7 @@ A web-based soil classification system that predicts the type of soil based on i
 
 ## 🔗 Project Link
 
-**Live Demo**: [Soil Classifier App](https://nithin521-soil-classifier.hf.space/)  
+**Live Demo**: [Soil Classifier App]([https://nithin521-soil-classifier.hf.space/](https://soilclassifier123.netlify.app/))  
 **GitHub Repository**: [https://github.com/nithin521/soil-classifier](https://github.com/nithin521/soil-classifier)
 
 ---
